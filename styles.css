@@ -1,0 +1,29 @@
+body {
+  background-image:url("pictures/background.jpg");
+  background-size:cover;
+  overflow: hidden;
+  font-family:sans-serif;
+  color:black;
+  padding:30px;
+}
+
+h1 {
+  font-size:125px;
+  color:rgba(126, 190, 237, 0.78);
+  text-align:center;
+  text-shadow:2px 1px #000000;
+}
+
+h2 {
+  font-size:65px;
+  color:grey;
+  text-align:center;
+  text-shadow:2px 1px #000000;
+}
+
+h3 {
+  font-size:50px;
+  color:grey;
+  text-align:center;
+  text-shadow:2px 1px #000000;
+}
